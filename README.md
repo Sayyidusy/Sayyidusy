@@ -1,4 +1,4 @@
-![MasterHead](https://kindyou.com/wp-content/uploads/2018/02/Beautiful-Gif-Pictures-of-Running-Cat-3.gif)
+![MasterHead]([https://kindyou.com/wp-content/uploads/2018/02/Beautiful-Gif-Pictures-of-Running-Cat-3.gif](https://th.bing.com/th/id/R.c3ccabc5495b9d495eaba1177b580c83?rik=98RHDlFe1coJ3A&riu=http%3a%2f%2fpqube.co.uk%2fstay%2fwp-content%2fuploads%2f2018%2f01%2fstay-screenshot-1.jpg&ehk=HYcc4rCM6fi8w%2bAhy0K%2bzyUwiQb%2b9ow9%2fdsUj04P3po%3d&risl=&pid=ImgRaw&r=0))
 <h1 align="center">Hai 👋, I'm Sayyidusy Syauqi Al Ghiffari</h1><h3 align="center">Interested in learning the website and mobile app</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=sayyidusy&label=Profile%20views&color=0e75b6&style=flat" alt="sayyidusy" /> </p>
 
 
