@@ -1,5 +1,5 @@
 
-![MasterHead](https://wallpapercave.com/wp/wp2099914.jpg)
+![MasterHead](https://wallpaperbat.com/img/420647-80s-4k-wallpaper-pack-in-2020-vaporwave-wallpaper-neon.jpg)
 <h1 align="center">Hai 👋, I'm Sayyidusy Syauqi Al Ghiffari</h1><h3 align="center">Interested in learning the website and mobile app</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=sayyidusy&label=Profile%20views&color=0e75b6&style=flat" alt="sayyidusy" /> </p>
 
 
