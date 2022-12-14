@@ -3,9 +3,8 @@
 <h1 align="center">Hai 👋, I'm Sayyidusy Syauqi Al Ghiffari</h1><h3 align="center">Interested in learning the website and mobile app</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=sayyidusy&label=Profile%20views&color=0e75b6&style=flat" alt="sayyidusy" /> </p>
 
 
-- 🌱  I’m currently learning **Java object oriented programs**
 - 👑  https://sayyidusy.github.io/portfolioSayyid/
-
+- 🌱  I’m currently learning **Java object oriented programs**
 - ⚡ Fun fact **besides knowing java, i can also speak japanese languange**
 
 <h3 align="left">Connect with me:</h3>
