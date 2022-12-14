@@ -4,6 +4,7 @@
 
 
 - 🌱  I’m currently learning **Java object oriented programs**
+- 👑  https://sayyidusy.github.io/portfolioSayyid/
 
 - ⚡ Fun fact **besides knowing java, i can also speak japanese languange**
 
